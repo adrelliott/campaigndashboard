@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: campaigndashboard
+        psr4_prefix: campaigndashboard
+        src_path: app
